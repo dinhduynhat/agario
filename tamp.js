@@ -5,6 +5,7 @@
 // @description  AgarPlus.io
 // @author       Nino
 // @match        http://agar.io/*
+// @updateURL    https://rawgit.com/xNiiNo/agario/master/tamp.js
 // @run-at       document-start
 // @grant        GM_xmlhttpRequest
 // @connect      agar.io
